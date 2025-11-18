@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.tree import DecisionTreeClassifier
 
 
-df = pd.read_csv("iris.csv")
+df = id.read_csv("iris.csv")
 
 
 mapa = {
